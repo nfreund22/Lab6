@@ -9,13 +9,13 @@
 #navbar-container {
   float: left;
   width: 100%;
+  left: 50%;
   display: block;
   position: relative;
 }
 
 #navbar-container ul {
   list-style-type: none; 
-  left: 50%;
   float: left;
 }
 
