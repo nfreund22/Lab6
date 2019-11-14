@@ -9,30 +9,30 @@
 #navbar-container {
   float: left;
   width: 100%;
-  left: 50%;
   display: block;
   position: relative;
 }
 
-#navbar-container ul {
+#main-navbar ul {
   list-style-type: none; 
+  left: 50%;
   float: left;
 }
 
-#navbar-container li {
+#main-navbar li {
   position: relative;
   float: left;
   right: 50%;
 }
 
-#navbar-container li a {
+#main-navbar li a {
   display: block;
   padding: 10px 20px;
   color: #fff;
   text-decoration: none;
 }
 
-#navbar-container li a:hover {
+#main-navbar li a:hover {
   display: block;
   background-color: #000;
   text-decoration: underline overline;
